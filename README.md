@@ -5,6 +5,8 @@ play online at [http://www.patatap.com]
 
 # Patatap clone
 
+Patatap clone project by Udemy @ColtSteele "Web Developer Bootcamp" 
+
 Uses: **HTML5, CSS, JS, paper.js and howler.js libraries**.
 
 In this project I practiced my JavaScript skills.
