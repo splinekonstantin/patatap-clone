@@ -11,4 +11,4 @@ Uses: **HTML5, CSS, JS, paper.js and howler.js libraries**.
 
 In this project I practiced my JavaScript skills.
 
-[Code Pen](https://codepen.io/spline/pen/GRRPxae)||[Git Pages](https://splinekonstantin.github.io/patatap-clone/)
+[Code Pen](https://codepen.io/spline/pen/GRRPxae) || [Git Pages](https://splinekonstantin.github.io/patatap-clone/)
